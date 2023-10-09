@@ -1,3 +1,65 @@
-.red {
-    color: 'red'
+.blue {
+    color: blue
 }
+
+.red {
+
+color: blue
+}
+
+  
+
+
+.green{
+    color: green;
+}
+
+
+.orange {
+    color: orange;
+}
+
+
+body {
+    background: lavender;
+  background-image: linear-gradient(white, skyblue);
+}
+
+p {
+    color: purple
+}
+
+
+.first {
+    color: darkblue;
+}
+
+
+.star-wars{
+
+    background-color: black;
+    color: yellow;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 2.5em;
+
+
+red{
+    color: red;
+}
+
+.dude{
+    color:rgb(10, 211, 43);
+    font-family:Monospace;
+    background-color: blue;
+
+}
+
+
+
+
+
+
+
+
