@@ -1,4 +1,14 @@
 
+.star-wars{
+
+    background-color: black;
+    color: yellow;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 2.5em;
+
+
 red{
     color: red;
 }
@@ -7,5 +17,6 @@ red{
     color:rgb(10, 211, 43);
     font-family:Monospace;
     background-color: blue;
+
 }
 
