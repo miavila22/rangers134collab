@@ -1,4 +1,13 @@
 
+body {
+    background: lavender;
+}
+
+p {
+    color: purple
+}
+
+
 .first {
     color: darkblue;
 }
@@ -24,5 +33,6 @@ red{
     background-color: blue;
 
 }
+
 
 
